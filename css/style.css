@@ -1,0 +1,33 @@
+body {
+    padding-top: 40px;
+    background-color: rgb(188, 221, 232);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: 'DM Sans';
+    font-size: 40px;
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+    text-align: left;
+  }
+  
+  p {
+    font-family: 'Indie flower';
+    font-size: 20px;
+  }
+  .container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #aut {
+    font-size: 20px;
+    font-style: italic;
+  }
